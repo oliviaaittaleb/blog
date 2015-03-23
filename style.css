@@ -73,3 +73,17 @@ img {
     max-width: 500px;
     display: block;
 }
+
+div p {
+    font-family: 'Josefin Sans', sans-serif;
+  font-weight: 500;
+  color: #595856;
+  font-size: 30px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  margin: 0 auto;
+  padding: 50px 0 10px 0;
+  text-align: center;
+  width: auto;
+  border-bottom: 1px solid 
+}
